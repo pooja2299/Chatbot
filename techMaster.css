@@ -1,0 +1,37 @@
+body
+{	
+	background: url(https://images.unsplash.com/photo-1512944159308-fbe53a63b779?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position: center;
+    height: 100%;
+    width: 100%;
+    font-family: "Nunito", sans-serif;
+    background-blend-mode: lighten;
+}
+
+.r{
+	padding-left: 100;
+}
+#mainNavbar .navbar-brand{
+	color: #EA1C2C;
+	font-size: 1.5rem;
+	font-weight: 100;
+
+}
+
+#mainNavbar {
+	font-size: 1.5rem;
+	font-weight: 100;
+
+}
+
+
+#mainNavbar .nav-link {
+	color: rgb(3, 55, 92);
+}
+
+#mainNavbar .nav-link:hover {
+	color: #EA1C2C;
+}
