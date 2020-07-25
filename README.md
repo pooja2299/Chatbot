@@ -11,7 +11,5 @@ Dialogflow provides one-click integrations to most popular messaging Apps like F
    * So can be used by industries to provide technical support to the it’s product users.
 * It has additional feature of image analysis.
 * It analyses the highlighted problem in the image using Google vision API and searches in the database.
-Eg: 
-  ![Example of image solution](techMaster-demo.png)
 * Can be used in place of customer services and filing complaints.
 
