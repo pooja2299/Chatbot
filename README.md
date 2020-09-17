@@ -5,7 +5,7 @@ It is build using Dialogflow.
 
 Dialogflow provides one-click integrations to most popular messaging Apps like Facebook Messenger, Slack, Twitter, Kik, Line, Skype, Telegram, Twilio and Viber. Even to some voice assistants like Google Assistant, Amazon Alexa and Microsoft Cortana.
 
-## Features:
+## Proposed Feature Ideas:
 * Natural language Processing makes it user friendly and interactive chatbot.
 * Provides assistance related to technical issues.
    * So can be used by industries to provide technical support to the it’s product users.
